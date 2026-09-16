@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(163, 212, 255);
+    font-family: "Raleway", sans-serif;
+}
+
+.site-name{
+    background-color: crimson;
+    color:bisque
+}
+
+.Section-name {
+    color: crimson
+}
+
+.address {
+    text-align: right;
+}
+
+.callout {
+    color:brown
+}
